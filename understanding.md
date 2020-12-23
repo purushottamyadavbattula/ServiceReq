@@ -109,4 +109,6 @@ Catlog
 |WorkGroupID                           |Workgroupid                       |SR_GetSelectedCatalogDetailsList|
 |JustificationRemarks                  |Description (Free text)           |SR_GetSelectedCatalogDetailsList|
 |
+
+
 * **output**: [**JSON**](../JSONS)
